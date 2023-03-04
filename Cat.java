@@ -1,4 +1,6 @@
 class Cat{
+private name;
+
 
     
 } 
